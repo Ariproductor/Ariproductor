@@ -52,12 +52,6 @@ print(eu.ola())
 
 ---
 
-## 🏆 Troféus do GitHub
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ariproductor&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
----
-
 ## 📈 Atividade Recente
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ariproductor&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=f472b6"/>
