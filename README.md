@@ -5,13 +5,14 @@
 <div align="center">
 🚀 Sobre mim
 </div>
-pythonclass Ari:
+class Ari:
     def __init__(self):
-        self.nome       = "Ariel"
+        self.nome       = "Ari"
         self.usuario    = "Ariproductor"
-        self.curso      = "Ciência da Computação — 4º Período"
+        self.curso      = "Tecnologia da Informação — 4º Período"
         self.objetivo   = "Conquistar meu primeiro estágio em TI 🎯"
-        self.aprendendo = ["Python", "Git & GitHub", "Lógica de Programação","C++", "Java"]
+        self.aprendendo = ["Python", "Git & GitHub", "Lógica de Programação"]
+        self.hobby      = "Transformar ideias em código 💡"
 
     def ola(self):
         return "Seja bem-vindo ao meu perfil! Vamos construir juntos 🤝"
