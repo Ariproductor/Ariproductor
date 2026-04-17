@@ -18,7 +18,7 @@ class Ariel:
         self.curso      = "Ciência da Computação — 4º Período"
         self.objetivo   = "Conquistar meu primeiro estágio em TI 🎯"
         self.aprendendo = ["Python", "Java", "C++", "Git & GitHub"]
-        self.hobby      = "Transformar ideias em código 💡"
+        self.hobby      = "Jogar Video Game e RPG de mesa 🎲"
 
     def ola(self):
         return "Seja bem-vinda ao meu perfil! Vamos construir juntos 🤝"
