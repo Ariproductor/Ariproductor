@@ -5,6 +5,7 @@
 <div align="center">
 🚀 Sobre mim
 </div>
+```python
 class Ari:
     def __init__(self):
         self.nome       = "Ari"
@@ -19,5 +20,6 @@ class Ari:
 
 eu = Ari()
 print(eu.ola())
+```
 
 <div align="center">
