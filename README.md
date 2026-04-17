@@ -64,18 +64,6 @@ print(eu.ola())
 
 ---
 
-## 🌱 Atualmente Aprendendo
-
-| 📚 Conteúdo | 📊 Progresso |
-|---|---|
-| Python | ████████░░ 80% |
-| Java | ██████░░░░ 60% |
-| C++ | █████░░░░░ 50% |
-| Git & GitHub | ███████░░░ 70% |
-| Lógica de Programação | █████████░ 90% |
-
----
-
 ## 📬 Onde me encontrar
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ariproductor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ariproductor)
