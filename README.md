@@ -42,16 +42,6 @@ print(eu.ola())
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ariproductor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariproductor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
-
-<img src="https://streak-stats.demolab.com?user=Ariproductor&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888"/>
-
----
-
 ## 📈 Atividade Recente
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ariproductor&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=f472b6"/>
