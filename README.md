@@ -42,12 +42,6 @@ print(eu.ola())
 
 ---
 
-## 📈 Atividade Recente
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ariproductor&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=f472b6"/>
-
----
-
 ## 📬 Onde me encontrar
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ariproductor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ariproductor)
